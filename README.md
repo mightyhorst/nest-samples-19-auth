@@ -9,3 +9,5 @@ yarn install
 yarn start
 ```
 
+1. Open [localhost:3000/auth/token](http://localhost:3000/auth/token) to get a backdoor token. 
+2. Using Postman, append header `Authorization`: `Bearer {token}` to `GET http://localhost:3000/auth/data`
