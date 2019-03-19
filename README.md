@@ -6,6 +6,6 @@ Taken from [docs](https://docs.nestjs.com/techniques/authentication)
 ```
 nvm use 9 # or above
 yarn install
-yarn start run:dev
+yarn start
 ```
 
